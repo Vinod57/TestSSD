@@ -21,6 +21,6 @@ https://github.com/Vinod57/TestSSD.git
 
 11. create a repository(go to git hub) create a repository
 12. add this repository into your machine. git remote add origin https://github.com/Vinod57/TestSSD.git
-13. git push origin master
+13. git push origin HEAD
 
 
