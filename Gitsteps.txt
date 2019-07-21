@@ -1,0 +1,26 @@
+https://github.com/Vinod57/TestSSD.git
+
+
+
+
+1. Create account in github
+2. open the git bash
+3. set your username (ex: git config --global user.name "Vinod57" )
+4. set your email (ex: git config --global user.email vinod112331@gmail.com)
+-----------------------------------------------------------------------------
+
+5. check the git status (git status)
+6. initialize git (git init)
+7. again check the git status(git status)
+-----------------------------------------------------------------------------
+
+8. Now you will the new added file.
+9. to add the files to the stage. use git add file name1, file name2.....
+10. to commit these files to the stage use git commit -m "message date and time".
+------------------------------------------------------------------------------
+
+11. create a repository(go to git hub) create a repository
+12. add this repository into your machine. git remote add origin https://github.com/Vinod57/TestSSD.git
+13. git push origin master
+
+
